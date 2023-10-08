@@ -4,7 +4,7 @@
 int main()
 {
 char operator;
-printf("choose an operator['+','*','/','-': ]");
+printf("choose an operator['+','*','/','-']: ");
 scanf("%c",&operator);
 
 double num1,num2;
